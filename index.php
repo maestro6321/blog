@@ -11,7 +11,7 @@
   <body>
     <main role="main">
       <section class="about-top container">
-        h1
+        <?php  echo "hi";  ?>
       </section>
     </main>
 
